@@ -5,6 +5,7 @@ module.exports = {
     employeeId: 'span[name="employeeID"]',
     nameInput: 'input[name="nameEntry"]',
     phoneInput: 'input[name="phoneEntry"]',
-    titleInput: 'input[name="titleEntry"]'
+    titleInput: 'input[name="titleEntry"]',
+    addEmployee: 'li[name="addEmployee"]',
 }
 
